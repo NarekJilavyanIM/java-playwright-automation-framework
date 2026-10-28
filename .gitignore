@@ -1,0 +1,15 @@
+target/
+target/traces/
+target/allure-results/
+eclipse-formatter.xml
+.idea/
+*.iml
+.allure/
+allure-results/
+*.log
+.classpath
+.project
+.settings/
+.vscode/
+*.class
+
