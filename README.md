@@ -61,8 +61,8 @@ src/
     │   │   └── TestWatcherExtension.java  Screenshot, URL, and trace attachments
     │   └── tests/
     │       ├── RegisterUserTest.java
-│       ├── SearchProductTest.java
-│       ├── PlaceOrderLoginBeforeCheckoutTest.java
+    │       ├── SearchProductTest.java
+    │       ├── PlaceOrderLoginBeforeCheckoutTest.java
     │       └── ScrollUpUsingArrowTest.java
     └── resources/
         ├── config.properties
